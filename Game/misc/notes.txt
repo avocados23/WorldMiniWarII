@@ -1,0 +1,1 @@
+Nothing in this folder can be run; the /misc/ folder was a folder where I initially tested certain functions and aspects of the game before adding them to the Main class.
