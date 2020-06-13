@@ -15,5 +15,5 @@ The game is unfinished, and I leave to anyone who is interested in adding featur
 The genetic programming algorithm can be in the console of the game, determining the outcome of your troops over time.
 
 ## Acknowledgments
-Mrs. Huebsch -- my teacher
-Jack Kelly -- help in writing for the genetic programming algorithm
+* Mrs. Huebsch -- my teacher
+* Jack Kelly -- help in writing for the genetic programming algorithm
