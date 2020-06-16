@@ -1,5 +1,7 @@
 # AP Computer Science AB Final Project, 2017-18
 
+[![Generic badge](https://img.shields.io/badge/java-8.0+-blue.svg)](https://shields.io/)
+
 My junior year project for AP Computer Science Level AB in high school (2018). Thanks to Jack Kelly for the genetic programming algorithm utilized in my game in determining the better team between the two players of the game.
 
 ## Prerequisites
